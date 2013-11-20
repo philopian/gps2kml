@@ -1,0 +1,4 @@
+Todo.txt
+*.gif
+*.mov
+!VideoDemo
